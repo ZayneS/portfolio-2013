@@ -1,0 +1,86 @@
+{
+	"a" :	[{
+			"id": 0,
+			"url": "./bard/se_1.jpg"
+		},
+		{
+			"id": 1,
+			"url": "./bard/se_2.jpg",
+			"intro":"you're just there"
+		},
+		{
+			"id": 2,
+			"url": "./bard/la_1.jpg",
+			"intro":"you're just there"
+		},
+		{
+			"id": 3,
+			"url": "./bard/la_2.jpg",
+			"intro":"you're just there"
+		},
+		{
+			"id": 4,
+			"url": "./bard/se_3.jpg",
+			"intro":"you're just there"
+		},
+		{
+			"id": 5,
+			"url": "./bard/se_4.jpg",
+			"intro":"you're just there"
+		},
+		{
+			"id": 6,
+			"url": "./bard/se_5.jpg",
+			"intro":"you're just there"
+		},
+		{
+			"id": 7,
+			"url": "./bard/se_6.jpg",
+			"intro":"you're just there"
+		},
+		{
+			"id": 8,
+			"url": "./bard/se_7.jpg",
+			"intro":"you're just there"
+		},
+		{
+			"id": 9,
+			"url": "./bard/sf_1.jpg",
+			"intro":"you're just there"
+		},
+		{
+			"id": 10,
+			"url": "./bard/sf_2.jpg",
+			"intro":"you're just there"
+		},
+		{
+			"id": 11,
+			"url": "./bard/sf_3.jpg",
+			"intro":"you're just there"
+		},
+		{
+			"id": 12,
+			"url": "./bard/sf_4.jpg",
+			"intro":"you're just there"
+		},
+		{
+			"id": 13,
+			"url": "./bard/sf_5.jpg",
+			"intro":"you're just there"
+		},
+		{
+			"id": 14,
+			"url": "./bard/sf_6.jpg",
+			"intro":"you're just there"
+		},
+		{
+			"id": 15,
+			"url": "./bard/sf_7.jpg",
+			"intro":"you're just there"
+		},
+		{
+			"id": 16,
+			"url": "./bard/sf_8.jpg",
+			"intro":"you're just there"
+		}]
+}

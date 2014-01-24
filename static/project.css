@@ -1,0 +1,130 @@
+.section-head{
+	margin:0px 0 10px 0;
+	padding-bottom:10px;
+	border-bottom:1px solid #dedede;
+}
+
+/*.section-head h1{
+	font-size: 27px;
+	text-transform: uppercase;
+	font-weight: lighter;
+	color: #0B5077;
+}
+*/
+.section-head h1{
+	font-family: "StandardCT-Light", san-serif;
+	font-size: 21px;
+	font-weight: lighter;
+	line-height: 26px;
+	color: #0B5077;
+	margin-bottom: 5px;
+}
+
+#diesel{
+	color:#D4145A;
+}
+
+.section-head h2{
+	font: italic normal 300 12px 'museo-1', 'museo-2', Helvetica;
+	font-weight: lighter;
+	color: #3d3d3e;
+}
+
+.section{
+	margin:20px 0 20px 0;
+}
+
+.main-shot{
+	margin-bottom:20px;
+}
+
+.main-shot .intro{
+	color:#7e7e7e;
+	line-height:20px;
+	width:464px;
+	float:left;
+	font-family: "Lucida Grande","Lucida Sans Unicode",Helvetica,Arial,Serif;
+}
+
+.main-shot .feature{
+	width:225px;
+	margin-left:20px;
+	float:left;
+	font-size:14px;
+}
+
+.main-shot .feature p{
+	line-height:20px;
+	color:#D4145A;
+	margin-bottom:15px;
+}
+
+.feature .label li{
+	display:inline;
+	margin:0 5px 5px 0;
+	float:left;
+	display: block;
+	height: 25px;
+	line-height: 25px;
+	background: #f0f0f0;
+	color: #999;
+	padding: 0 5px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.intro h1{
+	display:block;
+	margin:35px 0 5px 0;
+	text-transform: uppercase;
+	font: normal normal 700 17px 'museo-sans-1','museo-sans-2', Helvetica;
+}
+
+.side-shot img{
+	display:block;
+	float:left;
+	width:715px;
+}
+
+.side-shot .side-intro{
+	margin-left:20px;
+	float:left;
+}
+
+
+.secondary-nav{
+	margin-top:50px;
+	margin-bottom:100px;
+	height:150px;
+	border-bottom: 1px solid #dedede;
+	position:relative;
+	overflow:hidden;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    background-color: #dedede;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+
+    -webkit-transition: background-color 0.5s linear;
+    -moz-transition: background-color 0.5s linear;
+   	-o-transition: background-color 0.5s linear;
+}
+
+.circle:hover{
+	background-color:#64B8DD;
+}
+
+#previous{
+	position:absolute;
+	left:-50px;
+
+}
+
+#next{
+	position:absolute;
+	right:-50px;
+}

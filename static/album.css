@@ -1,0 +1,186 @@
+
+
+/* -------- PHOTOGRAPHICS PAGE ---------------------------*/
+
+.photo-box{
+}
+
+.photo-box a{
+	height:500px;
+	width:780px;
+	margin-bottom:10px;
+	background-color:#E3E3E3;
+	overflow:hidden;
+	display:block;
+}
+
+.album-title{
+	margin:60px 10px 0px 0px;
+}
+
+.album-title h3{
+	font-size:19px;
+	font-weight:lighter;
+	line-height:29px;
+	letter-spacing:-1px;
+}
+
+
+.album-teaser{
+	width:600px;
+	position:relative;
+}
+
+
+.photo-frame{
+	float:left;
+	width:180px;
+	height:180px;
+	margin-right:20px;
+	margin-top:10px;
+	margin-bottom:10px;
+	background-color:#E3E3E3;
+}
+
+.album-info{
+	margin-top:15px;
+	margin-bottom:35px;
+}
+
+.album-info p{
+	font-size:12px;
+	font-weight:lighter;
+}
+
+/* -------- SLIDES_CONTAINER ----------------------------- */
+#slides {
+	position:relative;
+	z-index:100;
+}
+
+.slides_container {
+	width:780px;
+	height:400px;
+	overflow:hidden;
+	position:relative;
+}
+
+/*
+	Each slide
+	Important:
+	Set the width of your slides
+	If height not specified height will be set by the slide content
+	Set to display block
+*/
+
+.slides_container a {
+	width:960px;
+	display:block;
+}
+
+.slides_container a img {
+	display:block;
+}
+
+/* -------- LIGHTBOX ------------------------------------- */
+.image_lightbox{
+    display:none;
+    background-color:rgba(0, 0, 0, 0.9);
+    z-index:5000;
+    position:fixed;
+    top:0px;
+    left:0px;
+    height:500px;
+    width:800px;
+}
+
+.image_lightbox img{
+    display:block;
+    position:relative;
+    height:200px;
+    margin:0 auto;
+
+}
+
+
+#arrow_left{
+    position:fixed;
+    left:0px;
+    top:0px;
+    width:150px;
+    height:100%;
+    background-color:rgba(123, 35, 26, 0.7);
+}
+
+#arrow_right{
+    position:fixed;
+    right:0px;
+    top:0px;
+    width:150px;
+    height:100%;
+    background-color:rgba(123, 35, 26, 0.7);
+}
+
+.arrow_hide{
+    opacity:0;
+}
+
+
+#exit{
+	position:fixed;
+	top:50px;
+	right:100px;
+	color:white;
+	background-color:rgba(0,0,0,0.5);
+	border: 1px solid (255,255,255,0.7);
+	height:50px;
+	width:100px;
+	z-index:5000;
+}
+
+#exit p{
+	margin:18px;
+}
+
+/* -------- NEW COVER ------------------------------------ */
+.multi-photos{
+	width:780px;
+	height:392px;
+	position:relative;
+	overflow:hidden;
+	margin-left:-1px;
+}
+
+.large_pic{
+	width:388px;
+	height:262px;
+	background-color:#e3e3e3;
+	border:1px solid white;
+	float:left;
+	display:block;
+	overflow:hidden;
+}
+
+.large_pic img{
+	height:262px;
+}
+
+.small_pic{
+	width:193px;
+	height:130px;
+	background-color:#F2B544;
+	border:1px solid white;
+	float:left;
+	display:block;
+	overflow:hidden;
+}
+
+.small_pic img{
+	height:130px;
+}
+
+/* -------- NAV THUMB LIST ------------------------------- */
+.nav-thumb-strip{
+	height:84px;
+	
+}
