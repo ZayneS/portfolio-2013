@@ -45,7 +45,7 @@
 									<p>Music Chart Viz is the 2nd project in
 										<a href="https://graphics.stanford.edu/wikis/cs448b-12-fall/" target="_blank">CS448B Data Visualization</a>.
 									It is done with Ningxia Zhang. You can play with it
-										<a href="http://ZayneS.github.com/Music-chart-vis/" target="_blank">Here</a>,
+										<a href="http://ningxiaz.github.io/Music-chart-vis/" target="_blank">Here</a>,
 									or find out the source code on
 										<a href="https://github.com/ZayneS/Music-chart-vis" target="_blank">Github</a>
 									.</p>
