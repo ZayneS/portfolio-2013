@@ -142,8 +142,7 @@ body{
 	float:left;
 	height:100%;
 	margin-top:10px;
-	width:199px;
-	border-right:1px solid #F2F2F2;
+	width:200px;
 }
 
 .side-nav{
@@ -798,7 +797,22 @@ body{
 	width:388px;
 }
 
+.self-intro {
+	font-size: 28px;
+}
+
 .self-intro p {
-	font-size:18px;
+	padding-top: 20px;
+	font-size: 22px;
+	letter-spacing: -0.5;
+	font-weight: bolder;
 	line-height: 1.8;
 }
+
+.grid li {
+	-webkit-transition: all 0.3s;
+}
+
+.grid li:hover {
+	background-color:#f2f2f2;
+};

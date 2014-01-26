@@ -1,6 +1,6 @@
-<?php 
+<?php
 	$path = $_SERVER['DOCUMENT_ROOT'];
-	include($path . '/templates/header-nav.php'); 
+	include($path . '/templates/header-nav.php');
 ?>
 
 			<div class="main-column clearfix">
@@ -26,10 +26,10 @@
 						</div>
 						<div class="full-unit-wrapper">
 							<div class="project-title">
-								<h3>COLORWORKS</br>	
+								<h3>COLORWORKS</br>
 								Lightweight platform for online collaboration
 								</h3>
-								<p>Tags: Web design, 
+								<p>Tags: Web design,
 								</p>
 							</div>
 							<div class="project-thumb">
@@ -97,7 +97,7 @@
 							<div class="single-unit-wrapper-noline">
 								<div class="single-side-info">
 									<div class="comments">
-									This book about all the cultural activities of BMW contains four hidden wheels,
+									Overview interface of a group
 									</div>
 								</div>
 							</div>
@@ -115,7 +115,7 @@
 							<div class="single-unit-wrapper-noline">
 								<div class="single-side-info">
 									<div class="comments">
-									This book about all the cultural activities of BMW contains four hidden wheels,
+									Timeline interface of a group
 									</div>
 								</div>
 							</div>
@@ -133,7 +133,7 @@
 							<div class="single-unit-wrapper-noline">
 								<div class="single-side-info">
 									<div class="comments">
-									This book about all the cultural activities of BMW contains four hidden wheels,
+									Task list management page
 									</div>
 								</div>
 							</div>
@@ -151,7 +151,7 @@
 							<div class="single-unit-wrapper-noline">
 								<div class="single-side-info">
 									<div class="comments">
-									This book about all the cultural activities of BMW contains four hidden wheels,
+									Personal menu
 									</div>
 								</div>
 							</div>
@@ -164,7 +164,7 @@
 								<div class="project-text">
 									<h3>PERSONAL desktop</h3>
 									<p>Personal desktop is a area for user to manage his own tasks, receive and deal with related information.
-									</p>		
+									</p>
 								</div>
 							</div>
 						</div>
@@ -181,7 +181,7 @@
 							<div class="single-unit-wrapper-noline">
 								<div class="single-side-info">
 									<div class="comments">
-									This book about all the cultural activities of BMW contains four hidden wheels,
+									Personal interface
 									</div>
 								</div>
 							</div>
@@ -198,7 +198,7 @@
 							</ol>
 						</div>
 					</div>
-				</div>			
+				</div>
 			</div>
-			
+
 <?php include($path . "/templates/footer.php"); ?>

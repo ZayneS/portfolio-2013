@@ -20,7 +20,7 @@
 	<link type="text/css" rel="stylesheet" href="/static/main_new.css"/>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
 </script>
-<script type="text/javascript" src="/javascripts/jquery.js"></script>
+<!-- <script type="text/javascript" src="/javascripts/jquery.js"></script> -->
 <script type="text/javascript" src="/javascripts/function.js"></script>
 <script type="text/javascript" src="/javascripts/album.js"></script>
 <script type="text/javascript">
