@@ -34,7 +34,7 @@
 						<div class="full-unit-wrapper-noline">
 								<div class="project-text self-intro">
 									<h3>I am <a href="/me">Zheng(Zayne) Shen</a>.</h3>
-									<h3>I do design for <a href="/works">Interaction</a> and <a href="/works">Experience</a>.</h3>
+									<h3>I do design for Interaction and Experience, <a href="/works">see my work</a></h3>
 <!-- 									<h3>I believe good design can bring people Convenience, Delight and Inspiration.</h3> -->
 									<p>Currently I am a master student at <a href="http://www.stanford.edu">Stanford University</a> with concentration in <a href="http://hci.stanford.edu/">HCI</a>. and going to graduate at June, 2014. I am looking for full-time opportunites to contribute my passion and expertise to design that bring people convenience and delight.</p>
 									<p><a href="/files/zhengshen_201402_2.pdf" target="_blank">My Resume</a></p>

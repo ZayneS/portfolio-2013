@@ -7,7 +7,7 @@
 				<div class="header">
 					<div class="header-wrapper clearfix">
 						<div class="page-title">
-							<h1 id="works">Works</h1>
+							<h1 id="works">Work</h1>
 						</div>
 						<div class="header-nav">
 							<ol class="button">

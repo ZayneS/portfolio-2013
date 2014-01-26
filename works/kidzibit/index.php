@@ -1,13 +1,13 @@
-<?php 
+<?php
 	$path = $_SERVER['DOCUMENT_ROOT'];
-	include($path . '/templates/header-nav.php'); 
+	include($path . '/templates/header-nav.php');
 ?>
 
 			<div class="main-column clearfix">
 				<div class="header">
 					<div class="header-wrapper clearfix">
 						<div class="page-title">
-							<h1 id="works">Works</h1>
+							<h1 id="works">Work</h1>
 						</div>
 						<div class="header-nav">
 							<ol class="button">
@@ -26,10 +26,10 @@
 						</div>
 						<div class="full-unit-wrapper">
 							<div class="project-title">
-								<h3>SFMOMA KIDZIBIT</br>	
+								<h3>SFMOMA KIDZIBIT</br>
 								Let kids remember the modern art museum
 								</h3>
-								<p>Tags: Design thinking, 
+								<p>Tags: Design thinking,
 								</p>
 							</div>
 							<div class="project-thumb">
@@ -44,7 +44,7 @@
 							<div class="three-unit-wrapper-noheight">
 								<div class="project-text">
 									<p>SFMOMA kidzibit is the <a href="/files/bootcamp_DP2_brief.pdf" target="_blank">2nd design project</a> in ME377 Design Bootcamp 2012
-									at Stanford University. It is for the challenge to redesign the experience of museum when it is closed during expansion. It is supported by 
+									at Stanford University. It is for the challenge to redesign the experience of museum when it is closed during expansion. It is supported by
 										<a href="http://www.sfmoma.org/" target="_blank">SFMOMA</a>.
 									</p>
 									<h3>IN A WORLD WHERE...</h3>
@@ -261,7 +261,7 @@
 							</ol>
 						</div>
 					</div>
-				</div>	
+				</div>
 			</div>
-			
+
 <?php include($path . "/templates/footer.php"); ?>

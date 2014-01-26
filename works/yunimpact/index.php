@@ -1,13 +1,13 @@
-<?php 
+<?php
 	$path = $_SERVER['DOCUMENT_ROOT'];
-	include($path . '/templates/header-nav.php'); 
+	include($path . '/templates/header-nav.php');
 ?>
 
 			<div class="main-column clearfix">
 				<div class="header">
 					<div class="header-wrapper clearfix">
 						<div class="page-title">
-							<h1 id="works">Works</h1>
+							<h1 id="works">Work</h1>
 						</div>
 						<div class="header-nav">
 							<ol class="button">
@@ -26,7 +26,7 @@
 						</div>
 						<div class="full-unit-wrapper">
 							<div class="project-title">
-								<h3>YUMPACT</br>	
+								<h3>YUMPACT</br>
 								Score your online impact
 								</h3>
 								<p>Tags: Web design, Visual design, Front-end engineering
@@ -47,7 +47,7 @@
 										<a href="http://yunimpact.com/" target="_blank">YUMPACT</a>
 									...</h3>
 									<p>is a startup founded by my friend Helium Chen.
-									
+
 									 I was in charge of the web design, logo design and HTML/CSS coding.
 									</p>
 									<p>YUMPACT means impact in the cloud( in Chinese sounds it sounds 'Yun'). It measures users online impact. It crunch users social data and provide a multi-dimentional analysis to tell how and where they impact others.</p>
@@ -258,7 +258,7 @@
 							</div>
 						</div>
 					</div>
-				</div>				
+				</div>
 				<div class="blank clearfix">
 					<div class="blank-wrapper">
 						<div class="bottom-nav">
@@ -269,7 +269,7 @@
 							</ol>
 						</div>
 					</div>
-				</div>			
+				</div>
 			</div>
-			
+
 <?php include($path . "/templates/footer.php"); ?>

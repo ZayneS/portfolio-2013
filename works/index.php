@@ -6,7 +6,7 @@
 				<div class="header">
 					<div class="header-wrapper">
 						<div class="page-title">
-							<h1 id="works">Works</h1>
+							<h1 id="works">Work</h1>
 						</div>
 					</div>
 				</div>

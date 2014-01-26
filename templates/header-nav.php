@@ -50,8 +50,8 @@
 				<!-- navigation -->
 				<div class="side-nav">
 					<ul>
-						<li><a href="/works/">Works</a></li>
-						<li><a href="/albums/">Photo Albums</a></li>
+						<li><a href="/works/">Work</a></li>
+						<li><a href="/albums/">Photography</a></li>
 						<!-- <li><a href="/sketches/">Sketches</a></li> -->
 						<li><a href="/me/">About Me</a></li>
 						<!-- <li><a href="">Me</a></li> -->

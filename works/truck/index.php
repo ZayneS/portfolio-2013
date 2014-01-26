@@ -1,13 +1,13 @@
-<?php 
+<?php
 	$path = $_SERVER['DOCUMENT_ROOT'];
-	include($path . '/templates/header-nav.php'); 
+	include($path . '/templates/header-nav.php');
 ?>
 
 			<div class="main-column clearfix">
 				<div class="header">
 					<div class="header-wrapper clearfix">
 						<div class="page-title">
-							<h1 id="works">Works</h1>
+							<h1 id="works">Work</h1>
 						</div>
 						<div class="header-nav">
 							<ol class="button">
@@ -27,9 +27,9 @@
 						<div class="full-unit-wrapper">
 							<div class="project-title">
 								<h3>CHANA TRUCK</br>
-								Next generational Semi-truck design								
+								Next generational Semi-truck design
 								</h3>
-								<p>Tags: Industrial design, Vehicle design 
+								<p>Tags: Industrial design, Vehicle design
 								</p>
 							</div>
 							<div class="project-thumb">
@@ -93,7 +93,7 @@
 							<div class="single-unit-wrapper-noline">
 								<div class="single-side-info">
 									<div class="comments">
-									
+
 									</div>
 								</div>
 							</div>
@@ -111,7 +111,7 @@
 							<div class="single-unit-wrapper-noline">
 								<div class="single-side-info">
 									<div class="comments">
-									
+
 									</div>
 								</div>
 							</div>
@@ -147,7 +147,7 @@
 							<div class="single-unit-wrapper-noline">
 								<div class="single-side-info">
 									<div class="comments">
-									
+
 									</div>
 								</div>
 							</div>
@@ -165,7 +165,7 @@
 							<div class="single-unit-wrapper-noline">
 								<div class="single-side-info">
 									<div class="comments">
-									
+
 									</div>
 								</div>
 							</div>
@@ -183,14 +183,14 @@
 							<div class="single-unit-wrapper-noline">
 								<div class="single-side-info">
 									<div class="comments">
-									
+
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-					
+
 				<div class="blank clearfix">
 					<div class="blank-wrapper">
 						<div class="bottom-nav">
@@ -201,8 +201,8 @@
 							</ol>
 						</div>
 					</div>
-				</div>			
+				</div>
 			</div>
-			
-			
+
+
 <?php include($path . "/templates/footer.php"); ?>

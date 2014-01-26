@@ -1,13 +1,13 @@
-<?php 
+<?php
 	$path = $_SERVER['DOCUMENT_ROOT'];
-	include($path . '/templates/header-nav.php'); 
+	include($path . '/templates/header-nav.php');
 ?>
 
 			<div class="main-column clearfix">
 				<div class="header">
 					<div class="header-wrapper clearfix">
 						<div class="page-title">
-							<h1 id="works">Works</h1>
+							<h1 id="works">Work</h1>
 						</div>
 						<div class="header-nav">
 							<ol class="button">
@@ -26,10 +26,10 @@
 						</div>
 						<div class="full-unit-wrapper">
 							<div class="project-title">
-								<h3>DIESEL Unlock the i.d.</br>	
+								<h3>DIESEL Unlock the i.d.</br>
 								Men's aftershave
 								</h3>
-								<p>Tags: Product design, Branding 
+								<p>Tags: Product design, Branding
 								</p>
 							</div>
 							<div class="project-thumb">
@@ -92,7 +92,7 @@
 							<div class="single-unit-wrapper-noline">
 								<div class="single-side-info">
 									<div class="comments">
-									3D Rendering 
+									3D Rendering
 									</div>
 								</div>
 							</div>
@@ -164,7 +164,7 @@
 							<div class="single-unit-wrapper-noline">
 								<div class="single-side-info">
 									<div class="comments">
-									Another design of men's shaving package 
+									Another design of men's shaving package
 									</div>
 								</div>
 							</div>
@@ -182,7 +182,7 @@
 							<div class="single-unit-wrapper-noline">
 								<div class="single-side-info">
 									<div class="comments">
-									The presentation of Unlock the i.d. by Sophia Huang and Huijun Dai at L'Oreal Brainstrom 2010 in Paris. 
+									The presentation of Unlock the i.d. by Sophia Huang and Huijun Dai at L'Oreal Brainstrom 2010 in Paris.
 									</div>
 								</div>
 							</div>
@@ -201,5 +201,5 @@
 					</div>
 				</div>
 			</div>
-			
+
 <?php include($path . "/templates/footer.php"); ?>

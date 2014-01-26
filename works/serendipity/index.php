@@ -1,13 +1,13 @@
-<?php 
+<?php
 	$path = $_SERVER['DOCUMENT_ROOT'];
-	include($path . '/templates/header-nav.php'); 
+	include($path . '/templates/header-nav.php');
 ?>
 
 			<div class="main-column clearfix">
 				<div class="header">
 					<div class="header-wrapper clearfix">
 						<div class="page-title">
-							<h1 id="works">Works</h1>
+							<h1 id="works">Work</h1>
 						</div>
 						<div class="header-nav">
 							<ol class="button">
@@ -26,10 +26,10 @@
 						</div>
 						<div class="full-unit-wrapper">
 							<div class="project-title">
-								<h3>NORDSTROM SERENDIPITY</br>	
+								<h3>NORDSTROM SERENDIPITY</br>
 								Bring the joy and serendipity to online shopping
 								</h3>
-								<p>Tags: Design thinking, 
+								<p>Tags: Design thinking,
 								</p>
 							</div>
 							<div class="project-thumb">
@@ -44,7 +44,7 @@
 							<div class="three-unit-wrapper-noheight">
 								<div class="project-text">
 									<p>Nordstrom serendipity is the <a href="/files/bootcamp_DP3_brief.pdf" target="_blank">3rd design project</a> in ME377 Design Bootcamp 2012
-									at Stanford University. It is for the challenge to redesign the shopping experience forthe millennial generation. It is supported by 
+									at Stanford University. It is for the challenge to redesign the shopping experience forthe millennial generation. It is supported by
 										<a href="http://nordstrominnovationlab.com/" target="_blank">Nordstrom Innovation lab</a>.
 									</p>
 									<h3>IN A WORLD WHERE...</h3>
@@ -128,7 +128,7 @@
 									<p>- Yet people are finding ways to make it similar to the in-store experience on their own. Our user has essentially begun creating her own at-home fitting room. She'll order two pairs of the same shoes in different sizes so she can try them on, and just send back what she doesn't like.</p>
 									<p>- The next thing that's missing then from the in-store experience are those great little extra recommendations that Nordstrom's experts provide you with in the fitting room, a key thing that sets Nordstrom apart yet hasn't made it to the online experience.
 									</p>
-		
+
 								</div>
 							</div>
 						</div>
@@ -288,7 +288,7 @@
 							</ol>
 						</div>
 					</div>
-				</div>			
+				</div>
 			</div>
-			
+
 <?php include($path . "/templates/footer.php"); ?>
