@@ -1,6 +1,6 @@
-<?php 
+<?php
 	$path = $_SERVER['DOCUMENT_ROOT'];
-	include($path . '/templates/header-nav.php'); 
+	include($path . '/templates/header-nav.php');
 ?>
 
 			<div class="main-column clearfix">
@@ -12,7 +12,7 @@
 						<div class="header-nav">
 							<ol class="button">
 								<li><a id="return-to-works" href="/works/"></a></li>
-								<li><a id="previous" href=""></a></li>
+								<li><a id="previous" href="/works/insite"></a></li>
 								<li><a id="next" href="/works/serendipity/"></a></li>
 							</ol>
 						</div>
@@ -26,9 +26,9 @@
 						</div>
 						<div class="full-unit-wrapper">
 							<div class="project-title">
-								<h3>YOGURT</br>	
+								<h3>YOGURT</br>
 								Keep aware of online distraction</h3>
-								<p>Tags: Data visualization, 
+								<p>Tags: Data visualization,
 								</p>
 							</div>
 							<div class="project-thumb">
@@ -43,13 +43,13 @@
 							<div class="three-unit-wrapper-noheight">
 								<div class="project-text">
 									<h3>YOGURT is</h3>
-									<p>a Google Chrome extension providing awareness of online distractions. It visualizes your online browsing history aiming to raise awareness of online distraction. It was the final project developed in 
+									<p>a Google Chrome extension providing awareness of online distractions. It visualizes your online browsing history aiming to raise awareness of online distraction. It was the final project developed in
 										<a href="https://graphics.stanford.edu/wikis/cs448b-12-fall/" target="_blank">CS448B Data Visualization</a>
 									class at Stanford. It was done with three awesome partners: Borui Wang, Jianfeng Hu, and Ningxia Zhang. I did most of the design of visualization and interaction, and part of the front-end coding.</p>
-									<p>You can find 
+									<p>You can find
 										<a href="https://chrome.google.com/webstore/detail/yogurt/bkcllpfdmadccnllfpkeipobfhclbjnf" target="_blank">Yogurt in Chrome Web Store</a>.
 									</p>
-									<p>We also developed a data visualization technique called "barcode chart" during the development of Yogurt. The full paper about "barcode chart" can be found 
+									<p>We also developed a data visualization technique called "barcode chart" during the development of Yogurt. The full paper about "barcode chart" can be found
 										<a href="/files/yogurt.pdf" target="_blank">here</a>
 									.</p>
 									<h3>NEEDFINDING...</h3>
@@ -145,7 +145,7 @@
 							<div class="single-unit-wrapper-noline">
 								<div class="single-side-info">
 									<div class="comments">
-									The side bar shows the daily distraction percentage and website user spent most time on 
+									The side bar shows the daily distraction percentage and website user spent most time on
 									</div>
 								</div>
 							</div>
@@ -163,7 +163,7 @@
 							<div class="single-unit-wrapper-noline">
 								<div class="single-side-info">
 									<div class="comments">
-									The side bar shows the daily distraction percentage and website user spent most time on 
+									The side bar shows the daily distraction percentage and website user spent most time on
 									</div>
 								</div>
 							</div>
@@ -247,12 +247,12 @@
 						<div class="bottom-nav">
 							<ol class="button">
 								<li><a id="return-to-works" href="/works/"></a></li>
-								<li><a id="previous" href=""></a></li>
+								<li><a id="previous" href="/works/insite"></a></li>
 								<li><a id="next" href="/works/serendipity/"></a></li>
 							</ol>
 						</div>
 					</div>
-				</div>			
+				</div>
 			</div>
-			
+
 <?php include($path . "/templates/footer.php"); ?>

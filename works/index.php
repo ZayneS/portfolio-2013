@@ -33,7 +33,7 @@
 					</li> -->
 					<li class="double-unit">
 						<div class="year-tag">
-							<p>New</p>
+							<p>2013</p>
 						</div>
 						<div class="double-unit-wrapper">
 							<a href="/works/happylabel/">
@@ -44,7 +44,6 @@
 								<div class="tag">Tag: Interaction design</div>
 								<p style="opacity: 0; margin-top: 50px;" class="copy">Bring the in class experience to online lectures</p>
 							</div>
-							<p class="view-project"><span class="arrow">1</span><span class="view-project-text">View&nbsp;Project</span></p>
 							<div class="thumb">
 								<img src="/static/thumb_happylabel.jpg" style="width:380px"></img>
 							</div>
@@ -54,7 +53,7 @@
 					</li>
 					<li class="double-unit-end">
 						<div class="year-tag">
-							<p>New</p>
+							<p>2013</p>
 						</div>
 						<div class="double-unit-wrapper">
 							<a href="/works/connexus/">
@@ -65,7 +64,7 @@
 								<div class="tag">Tag: Mobile design</div>
 								<p style="opacity: 0; margin-top: 50px;" class="copy">Yogurt is a Google Chrome extension providing awareness of online distraction</p>
 							</div>
-							<p class="view-project"><span class="arrow">1</span><span class="view-project-text">View&nbsp;Project</span></p>
+
 							<div class="thumb">
 								<img src="/static/thumb_connexus.jpg" style="width:380px"></img>
 							</div>
@@ -86,7 +85,7 @@
 								<div class="tag">Tag: Interaction design</div>
 								<p style="opacity: 0; margin-top: 50px;" class="copy">Bring the in class experience to online lectures</p>
 							</div>
-							<p class="view-project"><span class="arrow">1</span><span class="view-project-text">View&nbsp;Project</span></p>
+
 							<div class="thumb">
 								<img src="/static/thumb_insite.jpg" style="width:380px"></img>
 							</div>
@@ -107,7 +106,7 @@
 								<div class="tag">Tag: Data visualization</div>
 								<p style="opacity: 0; margin-top: 50px;" class="copy">Yogurt is a Google Chrome extension providing awareness of online distraction</p>
 							</div>
-							<p class="view-project"><span class="arrow">1</span><span class="view-project-text">View&nbsp;Project</span></p>
+
 							<div class="thumb">
 								<img src="/static/thumb_yog_4.jpg" style="width:380px"></img>
 							</div>
@@ -117,7 +116,7 @@
 					</li>
 					<li class="double-unit">
 						<div class="year-tag">
-							<p>New</p>
+							<p>2012</p>
 						</div>
 						<div class="double-unit-wrapper">
 							<a href="/works/serendipity/">
@@ -128,7 +127,7 @@
 								<div class="tag">Tag: Design thinking</div>
 								<p style="opacity: 0; margin-top: 50px;" class="copy">Bring the joy and serendipity to online shopper, turn your whole wardrobe into your personal fitting room.</p>
 							</div>
-							<p class="view-project"><span class="arrow">1</span><span class="view-project-text">View&nbsp;Project</span></p>
+
 							<div class="thumb">
 								<img src="/static/thumb_se.jpg"></img>
 							</div>
@@ -149,7 +148,7 @@
 								<div class="tag">Tag: Design thinking</div>
 								<p style="opacity: 0; margin-top: 50px;" class="copy">An SFMOMA-inspired activity that will help kids to retain their memories with the museum even when it is closed</p>
 							</div>
-							<p class="view-project"><span class="arrow">1</span><span class="view-project-text">View&nbsp;Project</span></p>
+
 							<div class="thumb">
 								<img src="/static/thumb_kid.jpg"></img>
 							</div>
@@ -170,7 +169,7 @@
 								<div class="tag">Tag: Data visualization</div>
 								<p style="opacity: 0; margin-top: 50px;" class="copy">Sexy visualization of billboard top 10, as the annual rings of music history</p>
 							</div>
-							<p class="view-project"><span class="arrow">1</span><span class="view-project-text">View&nbsp;Project</span></p>
+
 							<div class="thumb">
 								<img src="/static/thumb_music.jpg"></img>
 							</div>
@@ -191,7 +190,7 @@
 								<div class="tag">Tag: Web design, Visual design, Front-end engineering</div>
 								<p style="opacity: 0; margin-top: 50px;" class="copy">Measure the online impact, recommend best digestion of influential information</p>
 							</div>
-							<p class="view-project"><span class="arrow">1</span><span class="view-project-text">View&nbsp;Project</span></p>
+
 							<div class="thumb">
 								<img src="/static/thumb_yun.jpg"></img>
 							</div>
@@ -212,7 +211,7 @@
 								<div class="tag">Tag: Web design</div>
 								<p style="opacity: 0; margin-top: 50px;" class="copy">Lightweight online collaboration specifically for students</p>
 							</div>
-							<p class="view-project"><span class="arrow">1</span><span class="view-project-text">View&nbsp;Project</span></p>
+
 							<div class="thumb">
 								<img src="/static/thumb_color.jpg"></img>
 							</div>
@@ -233,7 +232,7 @@
 								<div class="tag">Tag: Product design, Branding</div>
 								<p style="opacity: 0; margin-top: 50px;" class="copy">Sexy man, sexy beard</p>
 							</div>
-							<p class="view-project"><span class="arrow">1</span><span class="view-project-text">View&nbsp;Project</span></p>
+
 							<div class="thumb">
 								<img src="/static/thumb_diesel.jpg"></img>
 							</div>
@@ -254,7 +253,7 @@
 								<div class="tag">Tag: Design study, Car styling</div>
 								<p style="opacity: 0; margin-top: 50px;" class="copy">Have you noticed that the front view of cars is similar to human face?</p>
 							</div>
-							<p class="view-project"><span class="arrow">1</span><span class="view-project-text">View&nbsp;Project</span></p>
+
 							<div class="thumb-single">
 								<img src="/static/thumb_n_carface.jpg"></img>
 							</div>
@@ -275,7 +274,7 @@
 								<div class="tag">Tag: Product design, Car styling</div>
 								<p style="opacity: 0; margin-top: 50px;" class="copy">Exterior design for next generational heavy truck for CHANA Ltd. Co.</p>
 							</div>
-							<p class="view-project"><span class="arrow">1</span><span class="view-project-text">View&nbsp;Project</span></p>
+
 							<div class="thumb-single">
 								<img src="/static/thumb_n_truck.jpg"></img>
 							</div>
@@ -296,7 +295,7 @@
 								<div class="tag">Tag: Product design, Advanced</div>
 								<p style="opacity: 0; margin-top: 50px;" class="copy">Your personal car shall be your tame and cute pet.</p>
 							</div>
-							<p class="view-project"><span class="arrow">1</span><span class="view-project-text">View&nbsp;Project</span></p>
+
 							<div class="thumb-single">
 								<img src="/static/thumb_n_epet.jpg"></img>
 							</div>
@@ -317,7 +316,7 @@
 								<div class="tag">Tag: Product design, Advanced</div>
 								<p style="opacity: 0; margin-top: 50px;" class="copy">A concept container truck that can load and unload anywhere.</p>
 							</div>
-							<p class="view-project"><span class="arrow">1</span><span class="view-project-text">View&nbsp;Project</span></p>
+
 							<div class="thumb-single">
 								<img src="/static/thumb_n_roteep.jpg"></img>
 							</div>
@@ -338,7 +337,7 @@
 								<div class="tag">Tag: Graphic design, Branding</div>
 								<p style="opacity: 0; margin-top: 50px;" class="copy">A US-China student organization focusing on level up rural education in China. </p>
 							</div>
-							<p class="view-project"><span class="arrow">1</span><span class="view-project-text">View&nbsp;Project</span></p>
+
 							<div class="thumb-single">
 								<img src="/static/thumb_n_tecc.jpg"></img>
 							</div>
@@ -359,7 +358,7 @@
 								<div class="tag">Tag: Graphic design</div>
 								<p style="opacity: 0; margin-top: 50px;" class="copy">Logo design is one of my extra activities</p>
 							</div>
-							<p class="view-project"><span class="arrow">1</span><span class="view-project-text">View&nbsp;Project</span></p>
+
 							<div class="thumb-single">
 								<img src="/static/thumb_n_logo.jpg"></img>
 							</div>
@@ -380,7 +379,7 @@
 								<div class="tag">Tag: Graphic design</div>
 								<p style="opacity: 0; margin-top: 50px;" class="copy">And so is poster design</p>
 							</div>
-							<p class="view-project"><span class="arrow">1</span><span class="view-project-text">View&nbsp;Project</span></p>
+
 							<div class="thumb-single">
 								<img src="/static/thumb_n_poster.jpg"></img>
 							</div>

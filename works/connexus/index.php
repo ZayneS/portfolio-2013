@@ -1,6 +1,6 @@
-<?php 
+<?php
 	$path = $_SERVER['DOCUMENT_ROOT'];
-	include($path . '/templates/header-nav.php'); 
+	include($path . '/templates/header-nav.php');
 ?>
 
 			<div class="main-column clearfix">
@@ -12,8 +12,8 @@
 						<div class="header-nav">
 							<ol class="button">
 								<li><a id="return-to-works" href="/works/"></a></li>
-								<li><a id="previous" href="/works/yunimpact/"></a></li>
-								<li><a id="next" href="/works/diesel/"></a></li>
+								<li><a id="previous" href="/works/happylabel/"></a></li>
+								<li><a id="next" href="/works/insite/"></a></li>
 							</ol>
 						</div>
 
@@ -22,18 +22,18 @@
 				<div class="project-body">
 					<div class="full-unit clearfix">
 						<div class="year-tag">
-							<p>2012</p>
+							<p>2013</p>
 						</div>
 						<div class="full-unit-wrapper">
 							<div class="project-title">
-								<h3>COLORWORKS</br>	
-								Lightweight platform for online collaboration
+								<h3>CONNEXUS</br>
+								Always stay in touch
 								</h3>
-								<p>Tags: Web design, 
+								<p>Tags: Mobile design,
 								</p>
 							</div>
 							<div class="project-thumb">
-								<img src="color_0.jpg">
+								<img src="connexus-0.jpg">
 							</div>
 							<!-- <div class="short-blank"></div>	 -->
 						</div>
@@ -44,24 +44,22 @@
 							<div class="three-unit-wrapper-noheight">
 								<div class="project-text">
 									<h3>
-										<a href="http://www.colorwork.com/" target="_blank">COLORWORKS</a>
+										CONNEXUS
 									is...</h3>
-									<p>a lightweight online collaboration platform. It focus on small organizations, and provides the most important services with clean design and easy-using interaction. </p>
-									<p>Colorworks was founded by students in Tsinghua University. I was in charge of the product function definition and front-end design for the project. This page shows the high-fidelity mock up I generated.</p>
+									<p>a mobile app that helps user discover under-utilized relationships, and take proactive actions to nurture them. </p>
+									<p>I worked on the interaction design of this app, from wireframes to final pixel level visual elements</p>
 								</div>
 							</div>
 						</div>
 						<div class="single-unit-end">
 							<div class="single-unit-wrapper-noheight">
 								<div class="project-highlight">
-									<h3>Chinese Startup</h3>
+									<h3>Mobile Design</h3>
 								</div>
 								<div class="project-tools">
 									<h3>Workflow analysis</h3>
-									<h3>Mock up</h3>
+									<h3>Wireframe</h3>
 									<h3>Illustrator/Photoshop</h3>
-									<h3>HTML/CSS</h3>
-									<h3>User testing</h3>
 								</div>
 							</div>
 						</div>
@@ -69,123 +67,49 @@
 					<div class="full-unit clearfix">
 						<div class="three-unit">
 							<div class="three-unit-wrapper-noline">
-								<div class="pict">
-									<img src="color_1.jpg"></img>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="full-unit clearfix">
-						<div class="three-unit">
-							<div class="three-unit-wrapper-noheight">
 								<div class="project-text">
-									<h3>GROUP PAGE</h3>
-									<p>Group page focues on the most commonly used function for a small scale teamwork, including: progress control, task list, file list, info forum, and member management</p>
+									<h3>Final Interface Design</h3>
 								</div>
 							</div>
 						</div>
+					</div>
+					<div class="full-unit clearfix">
+							<div class="full-unit-wrapper-noline">
+								<div class="project-thumb">
+									<img src="connexus-1.jpg"></img>
+								</div>
+							</div>
+					</div>
+					<div class="full-unit clearfix">
+							<div class="full-unit-wrapper-noline">
+								<div class="project-thumb">
+									<img src="connexus-2.jpg"></img>
+								</div>
+							</div>
+					</div>
+					<div class="full-unit clearfix">
+							<div class="full-unit-wrapper-noline">
+								<div class="project-thumb">
+									<img src="connexus-3.jpg"></img>
+								</div>
+							</div>
 					</div>
 					<div class="full-unit clearfix">
 						<div class="three-unit">
 							<div class="three-unit-wrapper-noline">
-								<div class="pict pict-border">
-									<img src="color_2.jpg"></img>
-								</div>
-							</div>
-						</div>
-						<div class="single-unit-end">
-							<div class="single-unit-wrapper-noline">
-								<div class="single-side-info">
-									<div class="comments">
-									This book about all the cultural activities of BMW contains four hidden wheels,
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="full-unit clearfix">
-						<div class="three-unit">
-							<div class="three-unit-wrapper-noline">
-								<div class="pict">
-									<img src="color_3.jpg"></img>
-								</div>
-							</div>
-						</div>
-						<div class="single-unit-end">
-							<div class="single-unit-wrapper-noline">
-								<div class="single-side-info">
-									<div class="comments">
-									This book about all the cultural activities of BMW contains four hidden wheels,
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="full-unit clearfix">
-						<div class="three-unit">
-							<div class="three-unit-wrapper-noline">
-								<div class="pict">
-									<img src="color_4.jpg"></img>
-								</div>
-							</div>
-						</div>
-						<div class="single-unit-end">
-							<div class="single-unit-wrapper-noline">
-								<div class="single-side-info">
-									<div class="comments">
-									This book about all the cultural activities of BMW contains four hidden wheels,
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="full-unit clearfix">
-						<div class="three-unit">
-							<div class="three-unit-wrapper-noline">
-								<div class="pict">
-									<img src="color_5.jpg"></img>
-								</div>
-							</div>
-						</div>
-						<div class="single-unit-end">
-							<div class="single-unit-wrapper-noline">
-								<div class="single-side-info">
-									<div class="comments">
-									This book about all the cultural activities of BMW contains four hidden wheels,
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<div class="full-unit clearfix">
-						<div class="three-unit">
-							<div class="three-unit-wrapper-noheight">
 								<div class="project-text">
-									<h3>PERSONAL desktop</h3>
-									<p>Personal desktop is a area for user to manage his own tasks, receive and deal with related information.
-									</p>		
+									<h3>Wireframe</h3>
+									<p>Dive is the old name of Connexus app</p>
 								</div>
 							</div>
 						</div>
 					</div>
 					<div class="full-unit clearfix">
-						<div class="three-unit">
-							<div class="three-unit-wrapper-noline">
-								<div class="pict">
-									<img src="color_6.jpg"></img>
+							<div class="full-unit-wrapper-noline">
+								<div class="project-thumb">
+									<img src="connexus-4.jpg"></img>
 								</div>
 							</div>
-						</div>
-						<div class="single-unit-end">
-							<div class="single-unit-wrapper-noline">
-								<div class="single-side-info">
-									<div class="comments">
-									This book about all the cultural activities of BMW contains four hidden wheels,
-									</div>
-								</div>
-							</div>
-						</div>
 					</div>
 				</div>
 				<div class="blank clearfix">
@@ -193,12 +117,12 @@
 						<div class="bottom-nav">
 							<ol class="button">
 								<li><a id="return-to-works" href="/works/"></a></li>
-								<li><a id="previous" href="/works/yunimpact/"></a></li>
-								<li><a id="next" href="/works/diesel/"></a></li>
+								<li><a id="previous" href="/works/happylabel/"></a></li>
+								<li><a id="next" href="/works/insite/"></a></li>
 							</ol>
 						</div>
 					</div>
-				</div>			
+				</div>
 			</div>
-			
+
 <?php include($path . "/templates/footer.php"); ?>

@@ -12,8 +12,8 @@
 						<div class="header-nav">
 							<ol class="button">
 								<li><a id="return-to-works" href="/works/"></a></li>
-								<li><a id="previous" href="/works/connexus/"></a></li>
-								<li><a id="next" href="/works/yogurt/"></a></li>
+								<li><a id="previous" href="/works/happylabel/"></a></li>
+								<li><a id="next" href="/works/connexus/"></a></li>
 							</ol>
 						</div>
 
@@ -26,14 +26,14 @@
 						</div>
 						<div class="full-unit-wrapper">
 							<div class="project-title">
-								<h3>FEEDBACK INSITE</br>
-								In class discusstion for online courses
+								<h3>HAPPYLABEL</br>
+								A crowdsourcing game to label image with structured labels.
 								</h3>
-								<p>Tags: Design thinking, Interaction design
+								<p>Tags: Interaction design, HCI research
 								</p>
 							</div>
 							<div class="project-thumb">
-								<img src="insite_7.jpg">
+								<img src="happylabel-f2.jpg">
 							</div>
 							<!-- <div class="short-blank"></div>	 -->
 						</div>
@@ -44,27 +44,22 @@
 							<div class="three-unit-wrapper-noheight">
 								<div class="project-text">
 									<h3>
-										<a href="http://innoved.herokuapp.com/lectures/" target="_blank">FEEDBACK INSITE</a>
-									...</h3>
-									<p>is a design to improve the feedback experience for current xMOOC platform. It is a project in CS438X Innovation in Educations at Stanford University.</p>
-									<p>
-									I was the project lead, and in charge of the interaction design, as well as partial of the mock-up engineering. The project was done with awesome partners: Molly Bullock, Charlie Guo and Orly Friedman.
-									</p>
-									<p>The interactive prototype is hosted <a href="http://innoved.herokuapp.com/lectures/" target="_blank">here</a></p>
+										<a href="http://www.colorwork.com/" target="_blank">HAPPYLABEL</a>
+									is...</h3>
+									<p>a crowdsourcing image labeling game inspired by the Game with a Purpose (GWAP) , It is the project of CS376 Research Topics in Human Computer Interaction</p>
+									<p><a href="/files/happylabel-3.pdf">Check out our paper</a>, or <a href="http://stanford.edu/~zhengs/happy_label/">play the demo</a></p>
 								</div>
 							</div>
 						</div>
 						<div class="single-unit-end">
 							<div class="single-unit-wrapper-noheight">
 								<div class="project-highlight">
-									<h3>Design Project in Innov in Edu</h3>
+									<h3>CS 376 Research Topics in HCI</h3>
 								</div>
 								<div class="project-tools">
-									<h3>Design thinking</h3>
-									<h3>Empathy work</h3>
-									<h3>Fireworks</h3>
+									<h3>Mock up</h3>
 									<h3>HTML/CSS/js</h3>
-									<h3>Bootstrap</h3>
+									<h3>Firebase</h3>
 								</div>
 							</div>
 						</div>
@@ -73,16 +68,7 @@
 						<div class="three-unit">
 							<div class="three-unit-wrapper-noline">
 								<div class="pict">
-									<iframe src="http://player.vimeo.com/video/61519175?byline=0&amp;portrait=0" width="580" height="326" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-								</div>
-							</div>
-						</div>
-						<div class="single-unit-end">
-							<div class="single-unit-wrapper-noline">
-								<div class="single-side-info">
-									<div class="comments">
-									Introduction video
-									</div>
+									<img src="happylabel-1.jpg"></img>
 								</div>
 							</div>
 						</div>
@@ -91,7 +77,57 @@
 						<div class="three-unit">
 							<div class="three-unit-wrapper-noheight">
 								<div class="project-text">
-									<h3>WIREFRAMES...</h3>
+									<h3>MOTIVATION</h3>
+									<p>The game is designed to improve the "specificity" of image labels that are generated when people are playing.</p>
+									<p>Previous study on ESP has shown the "obvious" issue: people tend to guess "obvious", easy words that provide less informative information for labeling. To solve this issue, we introduced a new hybrid design of ESP Game: It inherits the basic setting from ESP Game, and incorporates predefined category structure of labels. We intended to mix the effort of human computation from people who play the game with intelligence from domain experts who defined the category structure.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="full-unit clearfix">
+						<div class="three-unit">
+							<div class="three-unit-wrapper-noline">
+								<div class="pict pict-border">
+									<img src="happylabel-2.jpg"></img>
+								</div>
+							</div>
+						</div>
+						<div class="single-unit-end">
+							<div class="single-unit-wrapper-noline">
+								<div class="single-side-info">
+									<div class="comments">
+									The "Obvious" problem of current ESP game
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="full-unit clearfix">
+						<div class="three-unit">
+							<div class="three-unit-wrapper-noline">
+								<div class="pict pict-border">
+									<img src="happylabel-3.jpg"></img>
+								</div>
+							</div>
+						</div>
+						<div class="single-unit-end">
+							<div class="single-unit-wrapper-noline">
+								<div class="single-side-info">
+									<div class="comments">
+									Our hybrid approach tries to combine merits of ESP Game and category structure of labels
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="full-unit clearfix">
+						<div class="three-unit">
+							<div class="three-unit-wrapper-noheight">
+								<div class="project-text">
+									<h3>IMPLEMENTATION</h3>
+									<p>The example implementation is labeling car images with labels from "style-brand-model" structure. Similar implementation can be used in labeling images of fashion goods, animals etc.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -100,7 +136,7 @@
 						<div class="three-unit">
 							<div class="three-unit-wrapper-noline">
 								<div class="pict">
-									<img src="insite_1.jpg" style="width:580px"></img>
+									<img src="happylabel-4.jpg"></img>
 								</div>
 							</div>
 						</div>
@@ -108,7 +144,7 @@
 							<div class="single-unit-wrapper-noline">
 								<div class="single-side-info">
 									<div class="comments">
-									Lecture list, Mouse over on flag
+									The interface where people are playing games in pairs
 									</div>
 								</div>
 							</div>
@@ -118,7 +154,7 @@
 						<div class="three-unit">
 							<div class="three-unit-wrapper-noline">
 								<div class="pict">
-									<img src="insite_2.jpg" style="width:580px"></img>
+									<img src="happylabel-5.jpg"></img>
 								</div>
 							</div>
 						</div>
@@ -126,7 +162,49 @@
 							<div class="single-unit-wrapper-noline">
 								<div class="single-side-info">
 									<div class="comments">
-									Lecture list, topics unfolded
+									Predefined structure helps people to label image with deep and more specific information
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="full-unit clearfix">
+						<div class="three-unit">
+							<div class="three-unit-wrapper-noheight">
+								<div class="project-text">
+									<h3>ENGINEERING</h3>
+									<p>To test the game design, we implement HappyLabel as an online game. The client side was implemented using HTML5, CSS3 and Javascript. The backend was built using Firebase. We stored all the data (including game information, player information, leader-board information, image labels, category tree) in Firebase. Any changes (read or write) made to that data are automatically synchronized with the Firebase cloud and with all clients within milliseconds.
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="full-unit clearfix">
+						<div class="three-unit">
+							<div class="three-unit-wrapper-noheight">
+								<div class="project-text">
+									<h3>TESTING</h3>
+									<p>We tested the game online to see if it can improve the labelling efficiency, label quality and at the same still be fun to play. During the test, we had 872 people-time played this game.
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="full-unit clearfix">
+						<div class="three-unit">
+							<div class="three-unit-wrapper-noline">
+								<div class="pict">
+									<img src="happylabel-7.jpg"></img>
+								</div>
+							</div>
+						</div>
+						<div class="single-unit-end">
+							<div class="single-unit-wrapper-noline">
+								<div class="single-side-info">
+									<div class="comments">
+									During the test, we had 872 people-time played this game.
 									</div>
 								</div>
 							</div>
@@ -136,7 +214,7 @@
 						<div class="three-unit">
 							<div class="three-unit-wrapper-noline">
 								<div class="pict">
-									<img src="insite_3.jpg" style="width:580px"></img>
+									<img src="happylabel-8.jpg"></img>
 								</div>
 							</div>
 						</div>
@@ -144,110 +222,22 @@
 							<div class="single-unit-wrapper-noline">
 								<div class="single-side-info">
 									<div class="comments">
-									Lecture list, topic highlighted when mouse over flag
+									The result proved our hypothesis.
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
-					<div class="full-unit clearfix">
-						<div class="three-unit">
-							<div class="three-unit-wrapper-noline">
-								<div class="pict">
-									<img src="insite_4.jpg" style="width:580px"></img>
-								</div>
-							</div>
-						</div>
-						<div class="single-unit-end">
-							<div class="single-unit-wrapper-noline">
-								<div class="single-side-info">
-									<div class="comments">
-									Video lecture, relevant topics listed on the right
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="full-unit clearfix">
-						<div class="three-unit">
-							<div class="three-unit-wrapper-noline">
-								<div class="pict">
-									<img src="insite_6.jpg" style="width:580px"></img>
-								</div>
-							</div>
-						</div>
-						<div class="single-unit-end">
-							<div class="single-unit-wrapper-noline">
-								<div class="single-side-info">
-									<div class="comments">
-									Topic highlighted when mouse over flag on timeline
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="full-unit clearfix">
-						<div class="three-unit">
-							<div class="three-unit-wrapper-noline">
-								<div class="pict">
-									<img src="insite_7.jpg" style="width:580px"></img>
-								</div>
-							</div>
-						</div>
-						<div class="single-unit-end">
-							<div class="single-unit-wrapper-noline">
-								<div class="single-side-info">
-									<div class="comments">
-									Question topic(RED) selected, and discussion listed on the right
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="full-unit clearfix">
-						<div class="three-unit">
-							<div class="three-unit-wrapper-noline">
-								<div class="pict">
-									<img src="insite_9.jpg" style="width:580px"></img>
-								</div>
-							</div>
-						</div>
-						<div class="single-unit-end">
-							<div class="single-unit-wrapper-noline">
-								<div class="single-side-info">
-									<div class="comments">
-									Compliment topic(GREEN) selected, and discussion listed on the right
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="full-unit clearfix">
-						<div class="three-unit">
-							<div class="three-unit-wrapper-noline">
-								<div class="pict">
-									<img src="insite_10.jpg" style="width:580px"></img>
-								</div>
-							</div>
-						</div>
-						<div class="single-unit-end">
-							<div class="single-unit-wrapper-noline">
-								<div class="single-side-info">
-									<div class="comments">
-									Insert a new topic by click at the empty place on timeline
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
+
+
 				</div>
 				<div class="blank clearfix">
 					<div class="blank-wrapper">
 						<div class="bottom-nav">
 							<ol class="button">
 								<li><a id="return-to-works" href="/works/"></a></li>
-								<li><a id="previous" href="/works/connexus/"></a></li>
-								<li><a id="next" href="/works/yogurt/"></a></li>
+								<li><a id="previous" href="/works/happylabel/"></a></li>
+								<li><a id="next" href="/works/connexus/"></a></li>
 							</ol>
 						</div>
 					</div>

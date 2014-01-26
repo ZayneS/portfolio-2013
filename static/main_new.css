@@ -35,14 +35,14 @@ html, body, body div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquot
 	vertical-align: baseline;
 	background: transparent;
 	display:block;
-	
-}		
+
+}
 
 .colors {
 	background: #c80535;
-}	
+}
 
-			
+
 
 
 /* Accessible focus treatment
@@ -53,7 +53,7 @@ small {font-size: 85%;}
 
 strong, th {font-weight: bold;}
 
-td, td img {vertical-align: top;} 
+td, td img {vertical-align: top;}
 
 
 
@@ -65,23 +65,23 @@ html {overflow-y: scroll;}
 
 /*---  global a style  ---*/
 a{
-	margin: 0; 
-	padding: 0; 
-	font-size: 100%; 
+	margin: 0;
+	padding: 0;
+	font-size: 100%;
 	color:#FF0000;
-	vertical-align: baseline; 
+	vertical-align: baseline;
 	background: transparent;
 	text-decoration:none
 }
 
 /*---  hand cursor on clickable elements  ---*/
 .clickable,
-label, 
-input[type=button], 
-input[type=submit], 
+label,
+input[type=button],
+input[type=submit],
 button {cursor: pointer;}
 
-/*---  we use a lot of ULs that aren't bulleted. 
+/*---  we use a lot of ULs that aren't bulleted.
 	   don't forget to restore the bullets within content. ---*/
 ul, ol {list-style: none;}
 
@@ -94,14 +94,14 @@ body{
 	background:white;
 	color:#4D4D4D;
 	font-family:'EdelSans',Arial,sans-serif,Arial, Helvetica, sans-serif;
-	font-size:15px;
+	font-size:16px;
 	line-height:1.25;
 }
 
 /* let's clear some floats */
-.clearfix:before, .clearfix:after { content: "\0020"; display: block; height: 0; overflow: hidden; }  
-.clearfix:after { clear: both; }  
-.clearfix { zoom: 1; } 
+.clearfix:before, .clearfix:after { content: "\0020"; display: block; height: 0; overflow: hidden; }
+.clearfix:after { clear: both; }
+.clearfix { zoom: 1; }
 
 
 
@@ -189,7 +189,7 @@ body{
 .social-media li{
 	float:left;
 	margin-right:5px;
-	margin-top:5px;	
+	margin-top:5px;
 }
 
 .social-media a{
@@ -346,7 +346,7 @@ body{
 
 .tag{
 	margin-top:12px;
-	font-size:11px;
+	font-size:12px;
 }
 
 .brief-intro{
@@ -496,10 +496,10 @@ body{
 }
 
 .footer-height{
-	height:150px;	
+	height:150px;
 }
 
-.footer-unit-wrapper{	
+.footer-unit-wrapper{
 	width:180px;
 	margin:0px 10px 0px 10px;
 	border-top:1px solid #CCCCCC;
@@ -548,6 +548,12 @@ body{
 	padding-top:10px;
 	margin:0px 10px 10px 10px;
 	border-top:1px solid #CCCCCC;
+}
+
+.full-unit-wrapper-noline{
+	width:780px;
+	padding-top:10px;
+	margin:0px 10px 10px 10px;
 }
 
 .three-unit{
@@ -678,14 +684,15 @@ body{
 }
 
 .project-title h3{
-	font-size:19px;
+	font-size:20px;
 	font-weight:lighter;
 	line-height:29px;
 	letter-spacing:-1px;
 }
 
 .project-title p{
-	font-size:10px;
+	padding-top: 10px;
+	font-size:12px;
 	font-weight:lighter;
 	line-height:20px;
 }
@@ -693,10 +700,10 @@ body{
 
 .project-text{
 	font-family: 'MuseoSans';
-	font-size:14px;
+	font-size:16px;
 	color:#4d4d4d;
 	padding-top:8px;
-} 
+}
 
 
 .project-text h3{
@@ -707,10 +714,10 @@ body{
 }
 
 .project-text p{
-	font-size:15px;
+	font-size:16px;
 	line-height:23px;
 	padding-bottom:16px;
-	font-weight:lighter; 
+	font-weight:lighter;
 }
 
 .project-text a{
@@ -789,4 +796,9 @@ body{
 
 .large_poster img{
 	width:388px;
+}
+
+.self-intro p {
+	font-size:18px;
+	line-height: 1.8;
 }
